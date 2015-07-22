@@ -11,7 +11,7 @@ using WebSvc.Providers;
 namespace WebSvc.Services
 {
     /// <summary>
-    /// Summary description for PeopleServices
+    /// This is a sample web service with scripting enabled. Basically this is to allow parameter passing via json format instead of soap.
     /// </summary>
     [WebService(Namespace = "http://tempuri.org/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
